@@ -1,0 +1,52 @@
+h1{
+    font-family: forma-djr-display, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 75px;
+    color:white;
+}
+
+body{
+    background: linear-gradient(to right top , rgb(139, 23, 55), rgb(220, 27, 84));
+    width: 1920px;
+    height: 880px;
+}
+
+a{
+    font-family: forma-djr-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color:white;
+    text-decoration: none;
+}
+
+.commands{
+    padding-left:100px;
+    
+}
+
+.head1{
+    font-family: forma-djr-display, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    color:white;
+    text-decoration: none;
+    padding-top:30px;
+}
+
+.head2{
+    font-family: forma-djr-display, sans-serif;
+    font-weight: 50;
+    font-style: normal;
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+    padding-top:10px;
+}
+
+mark{
+    background-color:#8b1737;
+    color:white;
+   }
